@@ -105,3 +105,20 @@ a.active,a:hover{
         left: 0;
     }
 }
+
+.contact{
+    min-height: 100vh;
+    background-color: #e8f0fe;
+    padding: 50px;
+    text-align: center;
+}
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container h2{
+    font-size: 35px;
+    margin-bottom: 40px;
+}
